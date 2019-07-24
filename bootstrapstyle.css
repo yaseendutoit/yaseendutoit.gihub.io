@@ -1,0 +1,14 @@
+body {
+	background-image: url(alexander-tsang-sCfTAaYrMKA-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px 800px;
+}
+.col-sm-6 {
+	margin-top: 150px;
+}
+h1 {
+	font-family: 'Quicksand', sans-serif;
+}
+.text-muted {
+	margin-bottom: 30px;
+}
